@@ -10,7 +10,7 @@ Overview
 This code implements a heuristic approach based on Grey Systems Theory to solve Assembly Line Balancing Problems (ALBP) where task processing times are uncertain and represented as grey numbers.
 Repository Contents
 
-    GreyCOMSOAL_48tasks.json: The 48-task test instance used for scalability and sensitivity analysis.
+    - GreyCOMSOAL_48tasks.json: The 48-task test instance used for scalability and sensitivity analysis.
     Python implementation scripts for the Grey COMSOAL algorithm and regret-based ranking procedure.
     To run the code properly, ensure that all the following files are located in the same directory (side by side):
     main_app.py (The main execution script)
